@@ -1,0 +1,9 @@
+name: "Richard-Website"
+output_dir: "."
+navbar:
+  title: "Richard Wanjohi, Ph.D"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
