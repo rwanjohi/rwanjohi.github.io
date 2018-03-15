@@ -2,4 +2,5 @@
 title: "About Me"
 ---
 
-Asymptotically correct, always 
+- __Name:__ Richard Wanjohi
+- __Ocupation:__ Data Scientist

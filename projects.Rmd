@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+Sometimes I like to do projects and then post them on the internet for the whole world to benefit!
+here's some examples. 
+
+## [Sentiment Analysis](https://rwanjohi.shinyapps.io/myprojects/)
+
+-Statistical and Machine Learning (ML) algorithms are employed to analyze sentiments. The sentiments are are obtained via tweeter, facebook, emails, letters, ...
+
+-After the data is cleansed, descriptive statitics (both graphical and numerical) are computed.
+
+-Next, the sentiments are classified -using ML models- either as positive, neutral or negative. The ML models utilized include: Naive Bayes, Random Forest, SVM and MAXENT.
+
+-Finaly, whenever possible, the sentiments are mapped on a geographical map.
+
+## [GitHub](https://github.com/rwanjohi)
+
+- I can code!
