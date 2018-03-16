@@ -14,15 +14,14 @@ $$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
 
 My favourite tools:
 
--  [R](https://www.r-project.org/){:target="_blank"}
+-  [R](https://www.r-project.org/)
 
--  Python [Download Anaconda](https://www.anaconda.com/download/){target="_blank"}
+-  Python [Download Anaconda](https://www.anaconda.com/download/)
 
 -  Spark. 
 
--  [KNIME](https://www.knime.com/){:target="_blank"}
+-  [KNIME](https://www.knime.com/)
 
 -  Databricks
 
--  Tableau: [view my vizs](https://public.tableau.com/profile/richard.wanjohi#!/){:target="_blank"}
-
+-  Tableau: [view my vizs](https://public.tableau.com/profile/richard.wanjohi#!/)
