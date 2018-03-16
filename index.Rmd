@@ -7,8 +7,12 @@ Welcome to my world...
 
 ![](me.jpg)
 
-Here is me. 
-
 
 
 $$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
+My favourite tools:
+- #[R](https://www.r-project.org/)
+- Python #[Download](https://www.anaconda.com/download/) Anaconda
+- Spark 
+- KNIME #[here](https://www.knime.com/)
+
