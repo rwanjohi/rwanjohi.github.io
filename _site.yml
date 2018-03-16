@@ -1,7 +1,7 @@
 name: "Richard-Website"
 output_dir: "."
 navbar:
-  title: "Richard Wanjohi, Ph.D | Data Science "
+  title: "Richard Wanjohi, Ph.D  "
   left:
     - text: "Home"
       icon: fa-home
