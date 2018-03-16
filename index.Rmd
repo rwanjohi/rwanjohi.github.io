@@ -4,9 +4,10 @@ title: "Richard's Website "
 
 Welcome to my world...
 
+![](me.jpg)
 
 
-- $$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
+$$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
 
 
 
@@ -14,7 +15,7 @@ Welcome to my world...
 
 My favourite tools:
 
--  #[R](https://www.r-project.org/)
+-  [R](https://www.r-project.org/)
 
 -  Python [Download Anaconda](https://www.anaconda.com/download/)
 
