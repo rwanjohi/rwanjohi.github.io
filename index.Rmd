@@ -11,7 +11,7 @@ Welcome to my world...
 
 
 
-$$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
+- $$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
 
 
 
