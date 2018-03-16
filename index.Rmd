@@ -2,19 +2,11 @@
 title: "Richard's Website "
 ---
 
-<br>
-![this is me ](me.jpg)
-
-
-
-
-<br><br>
 
 Welcome to my world...
 
+
 $$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
-
-
 
 
 
@@ -31,3 +23,17 @@ My favourite tools:
 -  Databricks
 
 -  Tableau: [view my vizs](https://public.tableau.com/profile/richard.wanjohi#!/)
+
+
+```{r}
+summary(cars$dist)
+summary(cars$speed)
+```
+
+My python snippet
+
+```
+Pythonic
+```
+
+
