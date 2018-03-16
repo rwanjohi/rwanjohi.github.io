@@ -21,6 +21,8 @@ My favourite tools:
 -  Spark. 
 
 -  [KNIME](https://www.knime.com/)
+
 -  Databricks
--  Tableau [view my vizs]()
+
+-  Tableau: [view my vizs](https://public.tableau.com/profile/richard.wanjohi#!/)
 
