@@ -18,3 +18,5 @@ here's some examples.
 ## [GitHub](https://github.com/rwanjohi)
 
 - I can code!
+
+## [Deep Learning]
