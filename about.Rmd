@@ -7,6 +7,5 @@ title: "About Me"
 
 Here is me. 
 
-![](mejpg)
+![](me.jpg)
 
-## [My LinkedIn page](www.linkedin.com/in/richard-wanjohi-ph-d-90875323)
