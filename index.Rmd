@@ -7,6 +7,7 @@ Welcome to my world...
 ![](me.jpg)
 
 
+<br>
 
 
 $$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
