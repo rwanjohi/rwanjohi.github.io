@@ -2,13 +2,15 @@
 title: "Richard's Website "
 ---
 
-Welcome to my world...
+<br>
+![this is me ](me.jpg)
 
-![](me.jpg)
+
 
 
 <br><br>
 
+Welcome to my world...
 
 $$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
 
