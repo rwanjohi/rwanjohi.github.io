@@ -16,7 +16,7 @@ My favourite tools:
 
 -  [R](https://www.r-project.org/){:target="_blank"}
 
--  Python [Download Anaconda](https://www.anaconda.com/download/){:target="_blank"}
+-  Python [Download Anaconda](https://www.anaconda.com/download/){target="_blank"}
 
 -  Spark. 
 
