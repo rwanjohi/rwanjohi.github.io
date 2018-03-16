@@ -19,4 +19,4 @@ here's some examples.
 
 - I can code!
 
-## [Deep Learning]
+## Deep Learning
