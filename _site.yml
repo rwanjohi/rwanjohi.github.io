@@ -1,15 +1,20 @@
 name: "Richard-Website"
 output_dir: "."
 navbar:
-  title: "Richard Wanjohi, Ph.D"
+  title: "Richard Wanjohi, Ph.D | Data Science "
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About Me"
+      icon: fa-info
       href: about.html
     - text: "Projects"     ##### the new
+      icon: fa-gear
       href: projects.html  ##### stuff
 output:
   html_document:
     theme: flatly
     css: style.css
+    #include:
+     # after_body: footer.html
