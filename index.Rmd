@@ -6,3 +6,9 @@ Welcome to my world...
 
 
 ![](me.jpg)
+
+Here is me. 
+
+
+
+$$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
