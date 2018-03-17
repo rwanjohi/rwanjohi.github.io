@@ -34,7 +34,7 @@ My python snippet
 
 ```
 
-import numpy as np
+\textcolor{blue}{import} numpy as np
 import pandas as pd
 from sklearn.cross_validation import train_test_split, StratifiedKFold 
 from sklearn.ensemble  import GradientBoostingClassifier as GBC, RandomForestClassifier
