@@ -25,6 +25,8 @@ My favourite tools:
 
 -  Tableau: [view my vizs](https://public.tableau.com/profile/richard.wanjohi#!/)
 
+****
+
 
 ```{r}
 summary(cars$dist)
