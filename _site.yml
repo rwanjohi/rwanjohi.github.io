@@ -12,6 +12,9 @@ navbar:
     - text: "Projects"     ##### the new
       icon: fa-gear
       href: projects.html  ##### stuff
+    - text: 'CV'
+      icon: fa-certificate
+      href: certs.html
 output:
   html_document:
     theme: flatly
