@@ -9,9 +9,9 @@ navbar:
     - text: "About Me"
       icon: fa-info
       href: about.html
-    - text: "Projects"     ##### the new
+    - text: "Projects"     
       icon: fa-gear
-      href: projects.html  ##### stuff
+      href: projects.html  
     - text: 'CV'
       icon: fa-certificate
       href: certs.html
