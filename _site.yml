@@ -12,8 +12,8 @@ navbar:
     - text: "Projects"     
       icon: fa-gear
       href: projects.html  
-    - text: 'CV'
-      icon: fa-certificate
+    - text: 'Blog'
+      icon: fa-newspaper
       href: certs.html
 output:
   html_document:
