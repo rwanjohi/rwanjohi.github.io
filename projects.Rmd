@@ -22,6 +22,9 @@ here's some examples.
 - The package creates conda instances and install all Keras requirements in R environment. 
 - Deep Learning models supported by the package include Recurrent Neural Network (RNN), Long short-term memory (LSTM), Convoluted Neural Network (CNN), Multilayer Perceptron (MLP) , VGG-like convnet, Skip-Gram models among others.
 
+## [Is the intense data preparation necessary?](https://www.linkedin.com/pulse/significant-project-time-being-spent-data-preparation-wanjohi-ph-d/)
+
+- I presented some arguements why the intense data cleansing and manipulation \textit{may} not be neccessary 
 
 ## [GitHub](https://github.com/rwanjohi)
 
