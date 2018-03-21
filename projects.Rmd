@@ -17,6 +17,12 @@ here's some examples.
 
 ## [Deep Learning with Keras and Tensorflow in R](https://www.linkedin.com/pulse/finally-deep-learning-keras-tensorflow-r-richard-wanjohi-ph-d/)
 
+- This article demonstrate how to use Keras and Tensorflow to run Deep Learning models in R.
+- R launched Keras in R, a comprehensive library which runs on top of Tensorflow, with both CPU and GPU capabilities 
+- The package creates conda instances and install all Keras requirements in R environment. 
+- Deep Learning models supported by the package include Recurrent Neural Network (RNN), Long short-term memory (LSTM), Convoluted Neural Network (CNN), Multilayer Perceptron (MLP) , VGG-like convnet, Skip-Gram models among others.
+
+
 ## [GitHub](https://github.com/rwanjohi)
 
 - I can code!
