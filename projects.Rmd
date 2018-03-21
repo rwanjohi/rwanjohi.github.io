@@ -27,7 +27,7 @@ Here are some of my projects:
 
 ## [Is the intense data preparation necessary?](https://www.linkedin.com/pulse/significant-project-time-being-spent-data-preparation-wanjohi-ph-d/)
 
-- I presented some arguements why the intense data cleansing and manipulation $\textit{may}$ not be neccessary 
+- I presented some arguements as to why the intense data cleansing and manipulation $\textit{may}$ not be neccessary 
 
 ## [GitHub](https://github.com/rwanjohi)
 

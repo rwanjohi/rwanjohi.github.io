@@ -6,12 +6,12 @@ title: 'Richard''s Website '
 Welcome to my world...
 
 
-$$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
-where $$ P(Evidence) = P(Evidence|Data)\times P(Data) + P(Evidence|Data^{'}) \times P(Data^{'}) $$
+$$ P(Hypothesis|Evidence) =  \frac{P(Evidence|Hypothesis) \times P(Hypothesis)}{P(Evidence)} $$
+where $$ P(Evidence) = P(Evidence|Hypothesis)\times P(Hypothesis) + P(Evidence|Hypothesis^{'}) \times P(Hypothesis^{'}) $$
 
 ****
 
-My favourite tools:
+My favourite tools, currently:
 
 -  [R](https://www.r-project.org/)
 
@@ -19,11 +19,11 @@ My favourite tools:
 
 -  Spark. 
 
--  [KNIME](https://www.knime.com/)
-
 -  Databricks
 
--  Tableau: [view my vizs](https://public.tableau.com/profile/richard.wanjohi#!/)
+-  [KNIME](https://www.knime.com/)
+
+-  Tableau: [view and interact with my vizs](https://public.tableau.com/profile/richard.wanjohi#!/)
 
 ****
 
