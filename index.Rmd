@@ -7,7 +7,7 @@ Welcome to my world...
 
 
 $$ P(Data|Evidence) =  \frac{P(Evidence|Data) \times P(Data)}{P(Evidence)} $$
-where $$ P(Evidence) = $$
+where $$ P(Evidence) = P(Evidence|Data)\times P(Data) + P(Evidence|Data^{'}) \times P(Data^{'}) $$
 
 ****
 
