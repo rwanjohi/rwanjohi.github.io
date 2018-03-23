@@ -1,132 +1,286 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Hugo 0.37.1" />
 
+<html xmlns="http://www.w3.org/1999/xhtml">
 
-<title>A Hugo website</title>
-<meta property="og:title" content="A Hugo website">
-<meta property="og:type" content="website">
+<head>
 
-
-
-<meta property="description" content="A website built through Hugo and blogdown.">
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
 
 
 
 
+<title>Richard’s Website</title>
 
-<link href="/index.xml" rel="alternate" type="application/rss+xml" title="A Hugo website" />
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
-
-
-<link rel="stylesheet" href="/css/fonts.css" media="all">
-<link rel="stylesheet" href="/css/main.css" media="all">
-
-
-
-  </head>
-  <body>
-    <div class="wrapper">
-      <header class="header">
-        <nav class="nav">
-  <a href="/" class="nav-logo">
-    <img src="/images/logo.png"
-         width="50"
-         height="50"
-         alt="Logo">
-  </a>
-
-  <ul class="nav-links">
-    
-    <li><a href="/about/">About</a></li>
-    
-    <li><a href="https://github.com/rstudio/blogdown">GitHub</a></li>
-    
-    <li><a href="https://twitter.com/rstudio">Twitter</a></li>
-    
-  </ul>
-</nav>
-
-      </header>
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
 
 
-<main class="content" role="main">
 
-  
-  <div class="archive">
-    
-    <h2 class="archive-title">2018</h2>
-    
-    <article class="archive-item">
-      <a href="/2018/03/22/generative-adversarial-networks/" class="archive-item-link">Generative Adversarial Networks</a>
-      <span class="archive-item-date">
-        2018/03/22
-      </span>
-    </article>
-    
-    
-    <h2 class="archive-title">2016</h2>
-    
-    <article class="archive-item">
-      <a href="/2016/12/30/a-plain-markdown-post/" class="archive-item-link">A Plain Markdown Post</a>
-      <span class="archive-item-date">
-        2016/12/30
-      </span>
-    </article>
-    
-    
-    <h2 class="archive-title">2015</h2>
-    
-    <article class="archive-item">
-      <a href="/2015/07/23/hello-r-markdown/" class="archive-item-link">Hello R Markdown</a>
-      <span class="archive-item-date">
-        2015/07/23
-      </span>
-    </article>
-    
-    <article class="archive-item">
-      <a href="/2015/01/01/lorem-ipsum/" class="archive-item-link">Lorem Ipsum</a>
-      <span class="archive-item-date">
-        2015/01/01
-      </span>
-    </article>
-    
-    
-    <h2 class="archive-title">0001</h2>
-    
-    <article class="archive-item">
-      <a href="/1/01/01/" class="archive-item-link"></a>
-      <span class="archive-item-date">
-        0001/01/01
-      </span>
-    </article>
-    
-    
-  </div>
-  
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
 
-</main>
+<link rel="stylesheet" href="style.css" type="text/css" />
 
-      <footer class="footer">
-        <ul class="footer-links">
-          <li>
-            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
-          </li>
-          <li>
-            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" width="22" height="22"></a>
-          </li>
-        </ul>
-      </footer>
+</head>
 
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Richard Wanjohi, Ph.D  </a>
     </div>
-    
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="about.html">
+    <span class="fa fa-info"></span>
+     
+    About Me
+  </a>
+</li>
+<li>
+  <a href="projects.html">
+    <span class="fa fa-gear"></span>
+     
+    Projects
+  </a>
+</li>
+<li>
+  <a href="certs.html">
+    <span class="fa fa-newspaper"></span>
+     
+    Blog
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
 
-    
+<div class="fluid-row" id="header">
 
-    
-  </body>
+
+
+<h1 class="title toc-ignore">Richard’s Website</h1>
+
+</div>
+
+
+<p>Welcome to my world…</p>
+<p><span class="math display">\[ P(Hypothesis|Evidence) =  \frac{P(Evidence|Hypothesis) \times P(Hypothesis)}{P(Evidence)} \]</span> where <span class="math display">\[ P(Evidence) = P(Evidence|Hypothesis)\times P(Hypothesis) + P(Evidence|Hypothesis^{&#39;}) \times P(Hypothesis^{&#39;}) \]</span></p>
+<hr />
+<p>My favourite tools, currently:</p>
+<ul>
+<li><p><a href="https://www.r-project.org/">R</a></p></li>
+<li><p>Python <a href="https://www.anaconda.com/download/">Download Anaconda</a></p></li>
+<li><p>Spark.</p></li>
+<li><p>Databricks</p></li>
+<li><p><a href="https://www.knime.com/">KNIME</a></p></li>
+<li><p>Tableau: <a href="https://public.tableau.com/profile/richard.wanjohi#!/">view and interact with my vizs</a></p></li>
+</ul>
+<hr />
+<pre class="r"><code>summary(cars$dist)</code></pre>
+<pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##    2.00   26.00   36.00   42.98   56.00  120.00</code></pre>
+<pre class="r"><code>summary(cars$speed)</code></pre>
+<pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##     4.0    12.0    15.0    15.4    19.0    25.0</code></pre>
+<p>My python snippet</p>
+<pre><code>
+import numpy as np
+import pandas as pd
+from sklearn.cross_validation import train_test_split, StratifiedKFold 
+from sklearn.ensemble  import GradientBoostingClassifier as GBC, RandomForestClassifier
+
+from sklearn.model_selection import GridSearchCV
+</code></pre>
+<p></p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
 </html>
-
