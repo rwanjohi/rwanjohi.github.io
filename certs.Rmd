@@ -2,4 +2,4 @@
 title: " "
 ---
 
-When my blogdown package start responding to me, I will populate this page with more articles....
+ My [Blogs](www.rwanjohi.rbind.io)page
