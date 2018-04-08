@@ -2,4 +2,4 @@
 title: " "
 ---
 
-## My [Blog](www.rwanjohi.rbind.io) page
+## My [Blogs](http://rwanjohi.rbind.io/) website 
