@@ -2,19 +2,31 @@
 title: "About Me"
 ---
 
-- __Name:__ Richard Wanjohi
+
 - __Ocupation:__ Data Scientist
 
-Here is me. 
+- Here is me. 
 
 ![](me.jpg)
 
 
 
 
+I utilize Statistical and Machine Learning models to extract the hidden and meanigful insights from data.
+
+**************
+Research Interests:\\ 
+Machine Learning, Bayesian Inference, Time Series analysis, State Space Models, Sequential Monte Carlo Methods
+
+**************
+
+Tools: R, SAS, JMP, Python, Matlab, SPSS \\
+Big Data Ecosystem: Map Reduce, HDFS, HBase, Hive, Spark, Sqoop \\
+Analytics Platforms: KNIME, SAS Enterprise Miner, IBM SPSS Modeler, Alteryx \\
+Data visualization: Tableau, Power BI
 
 
 
 
-- My [LinkedIn](www.linkedin.com/in/richard-wanjohi-ph-d-90875323)page
+
 
