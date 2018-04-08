@@ -29,6 +29,10 @@ Here are some of my projects:
 
 - I presented some arguements as to why the intense data cleansing and manipulation $\textit{may}$ not be neccessary 
 
+## [My blogs here ](http://rwanjohi.rbind.io/) 
+
+- Enjoy
+
 ## [GitHub](https://github.com/rwanjohi)
 
 - I can code!
