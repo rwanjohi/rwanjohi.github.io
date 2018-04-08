@@ -10,6 +10,8 @@ title: "About Me"
 ![](me.jpg)
 
 
+\\
+
 
 
 I utilize Statistical and Machine Learning models to extract the hidden and meanigful insights from data.
@@ -20,8 +22,8 @@ Machine Learning, Bayesian Inference, Time Series analysis, State Space Models, 
 
 **************
 
-Tools: R, SAS, JMP, Python, Matlab, SPSS \\
-Big Data Ecosystem: Map Reduce, HDFS, HBase, Hive, Spark, Sqoop \\
+Tools: R, Python, SAS, JMP, Matlab, SPSS \\
+Big Data Ecosystem: Spark, Hive, Map Reduce, HDFS, HBase,   Sqoop \\
 Analytics Platforms: KNIME, SAS Enterprise Miner, IBM SPSS Modeler, Alteryx \\
 Data visualization: Tableau, Power BI
 
