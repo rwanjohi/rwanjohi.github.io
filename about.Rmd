@@ -5,9 +5,6 @@ title: "About Me"
 
 - __Ocupation:__ Data Scientist
 
-
-![](me.jpg)
-
 ![](me.jpg)
 <br>
 
