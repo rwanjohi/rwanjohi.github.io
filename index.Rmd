@@ -34,7 +34,7 @@ summary(cars$dist)
 summary(cars$speed)
 ```
 
-My python snippet
+Python snippet
 
 
 ```{python}
