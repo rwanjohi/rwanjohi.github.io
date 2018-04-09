@@ -9,6 +9,11 @@ title: "About Me"
 <br>
 
 
+
+
+
+
+
 - Here is me. 
 
 
@@ -16,9 +21,19 @@ title: "About Me"
 
 
 
+
+
+
 - I utilize Statistical and Machine Learning models to extract the hidden and meanigful insights from data.
 
+
+
 ***
+
+
+
+
+
 * Research Interests:\
     + Machine Learning
     + Bayesian Inference
@@ -31,14 +46,19 @@ title: "About Me"
 * Tools: 
     + R, 
     + Python, 
-    + SAS, JMP, Matlab, SPSS 
+    + SAS, JMP, Matlab, SPSS
+    
+    
 * Big Data Ecosystem: 
     + Spark, Hive, Map Reduce, HDFS, HBase,   Sqoop 
+    
+    
 * Analytics Platforms: 
     + KNIME, 
     + SAS Enterprise Miner, 
     + IBM SPSS Modeler, 
     + Alteryx 
+   
    
 * Data visualization: 
     + Tableau, Power BI
