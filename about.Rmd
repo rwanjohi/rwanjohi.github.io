@@ -10,35 +10,36 @@ title: "About Me"
 ![](me.jpg)
 
 
-\\
+***
 
 
 
 - I utilize Statistical and Machine Learning models to extract the hidden and meanigful insights from data.
 
 **************
-- Research Interests:\
- + Machine Learning
- + Bayesian Inference
- + Time Series analysis
- + State Space Models
- + Sequential Monte Carlo Methods
+* Research Interests:\
+    + Machine Learning
+    + Bayesian Inference
+    + Time Series analysis
+    + State Space Models
+    + Sequential Monte Carlo Methods
 
 **************
 
-- Tools: 
-+ R, 
-+ Python, 
-+ SAS, JMP, Matlab, SPSS 
-- Big Data Ecosystem: 
- + Spark, Hive, Map Reduce, HDFS, HBase,   Sqoop 
-- Analytics Platforms: 
- + KNIME, 
- + SAS Enterprise Miner, 
- + IBM SPSS Modeler, 
- + Alteryx 
-- Data visualization: 
-  + Tableau, Power BI
+* Tools: 
+    + R, 
+    + Python, 
+    + SAS, JMP, Matlab, SPSS 
+* Big Data Ecosystem: 
+    + Spark, Hive, Map Reduce, HDFS, HBase,   Sqoop 
+* Analytics Platforms: 
+    + KNIME, 
+    + SAS Enterprise Miner, 
+    + IBM SPSS Modeler, 
+    + Alteryx 
+   
+* Data visualization: 
+    + Tableau, Power BI
 
 
 
