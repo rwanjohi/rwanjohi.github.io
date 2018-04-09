@@ -29,7 +29,7 @@ My favourite tools, currently:
 ****
 
 
-```{r}
+```{r echo=FALSE}
 summary(cars$dist)
 summary(cars$speed)
 ```
