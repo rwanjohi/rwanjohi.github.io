@@ -3,10 +3,11 @@ title: 'Richard''s Website '
 ---
 
 ![This is me](me.jpg)
+------
+------
+******
 
-********
-
-*******
+*****
 
 
 ```{r, include=FALSE, warning=FALSE, message=FALSE}
