@@ -15,7 +15,7 @@ title: "About Me"
 
 ***
 
-* Research Interests:\
+* Research Interests:
     + Machine Learning
     + Bayesian Inference
     + Time Series analysis
@@ -33,7 +33,10 @@ title: "About Me"
 ****
 
 * Big Data Ecosystem: 
-    + Spark, Hive, Map Reduce, HDFS, HBase,   Sqoop 
+    + Spark
+    + Hive
+    + Map Reduce
+    + HDFS, HBase,   Sqoop 
     
 ****
 
@@ -46,7 +49,8 @@ title: "About Me"
 ****
 
 * Data visualization: 
-    + Tableau, Power BI
+    + Tableau
+    + Power BI
 
 
 

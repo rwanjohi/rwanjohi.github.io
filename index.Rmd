@@ -5,6 +5,7 @@ title: 'Richard''s Website '
 ![This is me](me.jpg)
 
 
+
 As a Data Scientist, I strive  to extract and deliver meaningful, solution focused and key data-driven insights that enhance business growth.
 
 I do utilize Statistical and Machine Learning models both in centralized and distributed (on-prem and Cloud) computing environments. 
