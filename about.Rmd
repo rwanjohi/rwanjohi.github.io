@@ -2,10 +2,13 @@
 title: "About Me"
 ---
 
+![](me.jpg)
+
+
 
 - __Ocupation:__ Data Scientist
 
-#![](me.jpg)
+
 
 - Here is me. 
 
