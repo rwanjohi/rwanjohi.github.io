@@ -239,15 +239,43 @@ $(document).ready(function () {
 <hr />
 <pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
 ##    2.00   26.00   36.00   42.98   56.00  120.00</code></pre>
-<pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-##     4.0    12.0    15.0    15.4    19.0    25.0</code></pre>
-<p>Python snippet</p>
+<pre class="r"><code>library(keras)
+library(tensorflow)</code></pre>
+<pre class="r"><code>df = read.table(&#39;E:/shampoo.csv&#39;, sep = &#39;,&#39;, header = TRUE, na.strings = &#39;NULL&#39;)</code></pre>
+<div id="define-the-model" class="section level2">
+<h2>Define the model</h2>
+<pre class="r"><code>model &lt;- keras_model_sequential() 
+model%&gt;%
+  layer_lstm(neurons, batch_input_shape = c(batch_size, X_shape2, X_shape3), stateful= TRUE)%&gt;%
+  layer_dense(units = 1)</code></pre>
+</div>
+<div id="compile-the-model" class="section level2">
+<h2>Compile the model</h2>
+<pre class="r"><code>model %&gt;% compile(
+  loss = &#39;mean_squared_error&#39;,
+  optimizer = optimizer_adam( lr= 0.0001 , decay = 1e-6 ),  #  optimizer_sgd(lr = 0.02),
+  metrics = c(&#39;accuracy&#39;)
+)</code></pre>
+<p>Model Summary:</p>
+<pre class="r"><code>summary(model)</code></pre>
+<pre><code>## ___________________________________________________________________________
+## Layer (type)                     Output Shape                  Param #     
+## ===========================================================================
+## lstm_3 (LSTM)                    (1, 4)                        96          
+## ___________________________________________________________________________
+## dense_3 (Dense)                  (1, 1)                        5           
+## ===========================================================================
+## Total params: 101
+## Trainable params: 101
+## Non-trainable params: 0
+## ___________________________________________________________________________</code></pre>
 <pre class="python"><code>import numpy as np
 #import pandas as pd
 #from sklearn.cross_validation import train_test_split, StratifiedKFold 
 #from sklearn.ensemble  import GradientBoostingClassifier as GBC, RandomForestClassifier
 #from sklearn.model_selection import GridSearchCV</code></pre>
 <hr />
+</div>
 
 
 
