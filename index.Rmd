@@ -1,7 +1,9 @@
 ---
 title: 'Richard''s Website '
 ---
-![](me.jpg)
+
+![This is me](me.jpg)
+
 
 As a Data Scientist, I strive  to extract and deliver meaningful, solution focused and key data-driven insights that enhance business growth.
 
@@ -11,6 +13,7 @@ I do utilize Statistical and Machine Learning models both in centralized and dis
 
 
 ****
+In our world the following 4 sets must sync 
 
 My favourite tools, currently:
 
