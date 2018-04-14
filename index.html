@@ -224,6 +224,10 @@ $(document).ready(function () {
 </div>
 
 
+<div class="figure">
+<img src="me.jpg" />
+
+</div>
 <p>As a Data Scientist, I strive to extract and deliver meaningful, solution focused and key data-driven insights that enhance business growth.</p>
 <p>I do utilize Statistical and Machine Learning models both in centralized and distributed (on-prem and Cloud) computing environments.</p>
 <hr />
@@ -241,16 +245,15 @@ $(document).ready(function () {
 ##    2.00   26.00   36.00   42.98   56.00  120.00</code></pre>
 <pre class="r"><code>library(keras)
 library(tensorflow)</code></pre>
-<pre class="r"><code>df = read.table(&#39;E:/shampoo.csv&#39;, sep = &#39;,&#39;, header = TRUE, na.strings = &#39;NULL&#39;)</code></pre>
-<div id="define-the-model" class="section level2">
-<h2>Define the model</h2>
+<div id="define-the-model" class="section level3">
+<h3>Define the model</h3>
 <pre class="r"><code>model &lt;- keras_model_sequential() 
 model%&gt;%
   layer_lstm(neurons, batch_input_shape = c(batch_size, X_shape2, X_shape3), stateful= TRUE)%&gt;%
   layer_dense(units = 1)</code></pre>
 </div>
-<div id="compile-the-model" class="section level2">
-<h2>Compile the model</h2>
+<div id="compile-the-model" class="section level3">
+<h3>Compile the model</h3>
 <pre class="r"><code>model %&gt;% compile(
   loss = &#39;mean_squared_error&#39;,
   optimizer = optimizer_adam( lr= 0.0001 , decay = 1e-6 ),  #  optimizer_sgd(lr = 0.02),
@@ -261,9 +264,9 @@ model%&gt;%
 <pre><code>## ___________________________________________________________________________
 ## Layer (type)                     Output Shape                  Param #     
 ## ===========================================================================
-## lstm_3 (LSTM)                    (1, 4)                        96          
+## lstm_4 (LSTM)                    (1, 4)                        96          
 ## ___________________________________________________________________________
-## dense_3 (Dense)                  (1, 1)                        5           
+## dense_4 (Dense)                  (1, 1)                        5           
 ## ===========================================================================
 ## Total params: 101
 ## Trainable params: 101
