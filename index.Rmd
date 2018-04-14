@@ -4,7 +4,17 @@ title: 'Richard''s Website '
 
 ![This is me](me.jpg)
 
+```{r, include=FALSE, warning=FALSE, message=FALSE}
+library(knitr)
 
+```
+
+Or this
+
+```{r dpi= 20, out.height= "10%"}
+# All defaults
+include_graphics('me.jpg')
+```
 
 As a Data Scientist, I strive  to extract and deliver meaningful, solution focused and key data-driven insights that enhance business growth.
 
