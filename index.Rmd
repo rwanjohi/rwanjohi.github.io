@@ -1,6 +1,8 @@
 ---
 title: 'Richard''s Website '
 ---
+#![](me.jpg)
+
 
 ******
 As a Data Scientist, I strive  to extract and deliver meaningful, solution focused and key data-driven insights that enhance business growth.
