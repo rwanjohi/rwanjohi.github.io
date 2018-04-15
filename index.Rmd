@@ -1,7 +1,6 @@
 ---
 title: 'Richard''s Website '
 ---
-#![](me.jpg)
 
 
 ******
