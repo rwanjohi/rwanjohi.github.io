@@ -1,27 +1,10 @@
 ---
 title: 'Richard''s Website '
 ---
-
 ![This is me](me.jpg)
-------
-------
+
+
 ******
-
-*****
-
-
-```{r, include=FALSE, warning=FALSE, message=FALSE}
-library(knitr)
-
-```
-
-Or this
-
-```{r dpi= 20, out.height= "10%"}
-# All defaults
-#include_graphics('me.jpg')
-```
-
 As a Data Scientist, I strive  to extract and deliver meaningful, solution focused and key data-driven insights that enhance business growth.
 
 I do utilize Statistical and Machine Learning models both in centralized and distributed (on-prem and Cloud) computing environments. 
@@ -30,7 +13,7 @@ I do utilize Statistical and Machine Learning models both in centralized and dis
 
 
 ****
-In our world the following 4 sets must sync 
+ 
 
 My favourite tools, currently:
 
