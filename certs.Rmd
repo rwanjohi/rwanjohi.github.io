@@ -4,6 +4,16 @@ title: "Blogs "
 
 Here are my blogs::
 
-## [Time Series Forecasting using LSTM in R](http://rwanjohi.rbind.io/2018/04/05/time-series-forecasting-using-lstm-in-r/)
+## 1. [Time Series Forecasting using LSTM in R](http://rwanjohi.rbind.io/2018/04/05/time-series-forecasting-using-lstm-in-r/)
 
 
+
+## 2. [Generative Adversarial Networks and their potential](http://rwanjohi.rbind.io/2018/04/14/generative-adversarial-networks/)
+
+    Still in progress
+
+## 3. [Overview of Machine Learning Algorithms](http://rwanjohi.rbind.io/2018/04/02/overview-of-machine-learning-algorithms/)
+
+     with both R and Python codes presented.
+     
+     Still in progress
