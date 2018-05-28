@@ -8,9 +8,14 @@ Here are my blogs::
 
 
 
+
+
 ## 2. [Generative Adversarial Networks and their potential](http://rwanjohi.rbind.io/2018/04/14/generative-adversarial-networks/)
 
     Still in progress
+
+
+
 
 ## 3. [Overview of Machine Learning Algorithms](http://rwanjohi.rbind.io/2018/04/02/overview-of-machine-learning-algorithms/)
 
