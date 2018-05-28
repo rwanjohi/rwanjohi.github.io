@@ -5,7 +5,16 @@ title: 'Richard''s Website '
 Welcome
 
 
+
 ![](me.jpg)
+
+
+
+
+
+
+
+
 
 
 
