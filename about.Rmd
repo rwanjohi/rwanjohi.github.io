@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-![This is me](me.jpg)
+* ![This is me](me.jpg)
 
 
 - __Ocupation:__ Data Scientist
