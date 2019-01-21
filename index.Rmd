@@ -42,13 +42,13 @@ library(tensorflow)
 ```
 
 ```{r, include= FALSE}
-df = read.table('E:/shampoo.csv', sep = ',', header = TRUE, na.strings = 'NULL')
+df = read.table('/Users/richardwanjohi/data/shampoo.csv', sep = ',', header = TRUE, na.strings = 'NULL')
 
 ```
 
 
 
-```{r, include=FALSE}
+```{r, include=FALSE, eval= FALSE}
 
 lags <- function(x, k){
     

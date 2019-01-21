@@ -18,7 +18,7 @@ Here are my blogs::
 
 
 
-*  ## [Overview of Machine Learning Algorithms](http://rwanjohi.rbind.io/2018/04/02/overview-of-machine-learning-algorithms/)
+*  ## [Overview of Machine Learning Algorithms](http://rwanjohi.rbind.io/2018/04/03/overview-of-machine-learning-algorithms/)
 
      with both R and Python codes presented.
      

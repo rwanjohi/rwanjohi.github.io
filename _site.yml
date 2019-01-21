@@ -15,6 +15,9 @@ navbar:
     - text: 'Blog'
       icon: fa-newspaper
       href: certs.html
+    - text: 'Image recognition'
+      icon: fa-image
+      href: predict.html 
 output:
   html_document:
     theme: flatly

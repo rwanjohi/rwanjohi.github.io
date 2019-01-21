@@ -22,7 +22,9 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -91,6 +93,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -207,6 +212,13 @@ $(document).ready(function () {
     Blog
   </a>
 </li>
+<li>
+  <a href="predict.html">
+    <span class="fa fa-image"></span>
+     
+    Image recognition
+  </a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         
@@ -262,9 +274,9 @@ model%&gt;%
 <pre><code>## ___________________________________________________________________________
 ## Layer (type)                     Output Shape                  Param #     
 ## ===========================================================================
-## lstm_8 (LSTM)                    (1, 4)                        96          
+## lstm_2 (LSTM)                    (1, 4)                        96          
 ## ___________________________________________________________________________
-## dense_8 (Dense)                  (1, 1)                        5           
+## dense_2 (Dense)                  (1, 1)                        5           
 ## ===========================================================================
 ## Total params: 101
 ## Trainable params: 101
